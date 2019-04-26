@@ -27,7 +27,7 @@ Here we present a series of tools and experiments performed in SMM data.
 ## Tool
 
 - [cemu-linux](https://github.com/leomaurodesenv/cemu-linux) - Tutorial to emulate Wii U on Linux.
-- [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - A package to interpret courses (.cdt files). [Online](projects.leonardomauro.com/smm-course-viewer/).
+- [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - A package to interpret courses (.cdt files). [Online](http://projects.leonardomauro.com/smm-course-viewer).
 
 ---
 ## Research
