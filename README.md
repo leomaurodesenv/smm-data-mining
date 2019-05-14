@@ -37,6 +37,7 @@ Here we present a series of tools and experiments performed in SMM data.
 ---
 ## Dataset
 
+- [SMMData](https://github.com/tachyo/SMMData) - Super Mario Maker Database.
 - [smmnet](https://github.com/leomaurodesenv/smmnet) - SMMnet: A Temporal Dataset from Super Mario Maker. [Kaggle](https://www.kaggle.com/leomauro/smmnet).
 
 ---
