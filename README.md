@@ -1,6 +1,6 @@
 # SMM Data Mining
 
-This project aim knowledge discovery on the Super Mario Maker (SMM) game.  
+This project aims to knowledge discovery on the Super Mario Maker (SMM) game.  
 Here we present a series of tools and experiments performed in SMM data.  
 
 ---
